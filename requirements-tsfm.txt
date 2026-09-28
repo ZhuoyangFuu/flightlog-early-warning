@@ -1,0 +1,9 @@
+# Separate environment for the time-series foundation-model baseline only (tsfm_baseline.py, run_tsfm.sh).
+momentfm==0.1.4
+transformers==4.44.2
+torch==2.11.0
+numpy==2.5.2
+pandas==3.0.5
+pyarrow==25.0.1
+scikit-learn==1.9.0
+# uni2ts   # optional, only for the Moirai variant

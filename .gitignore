@@ -1,0 +1,17 @@
+# data and generated artefacts live outside the repository
+raw/
+staging/
+proc/
+meta/
+state/
+checkpoints/
+logs/
+docs/
+*.ulg
+*.parquet
+*.npz
+*.npy
+*.pt
+*.csv
+__pycache__/
+*.pyc

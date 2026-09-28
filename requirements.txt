@@ -1,0 +1,11 @@
+# Main environment (Python 3.12). Versions are the ones the results were produced with.
+numpy==2.5.1
+pandas==3.0.5
+pyarrow==25.0.0
+scipy==1.18.0
+scikit-learn==1.9.0
+torch==2.11.0        # built for CUDA 12.8 on the original machine
+pyulog==1.2.4
+requests==2.34.2
+matplotlib==3.11.1
+tqdm==4.70.0
